@@ -1,2 +1,2 @@
-# 이렇게하면 이름 바뀌나..
-StudyLog of Machine Learning
+# RAG 기반 AI 도구 활용
+구축된 질병 모델 지식 베이스 활용
