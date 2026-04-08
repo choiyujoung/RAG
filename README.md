@@ -2,6 +2,9 @@
 📌 Project Overview
 이 프로젝트는 엑셀에 정리된 질환 모델 데이터베이스에서 원하는 정보를 빠르게 검색하기 위해 만든 파이썬 프로그램입니다. 질병명이나 주요 타겟 유전자를 입력하면 그에 맞는 동물 실험 모델과 핵심 기전을 즉시 출력합니다.
 
+
+<img width="1788" height="385" alt="image" src="https://github.com/user-attachments/assets/12ca4b08-6e64-4a1e-ba4d-97047b7a3113" />
+
 🛠 Tech Stack
 Language: Python
 
@@ -65,5 +68,4 @@ Accuracy: Improved search precision by utilizing string manipulation functions t
 
 
 
-<img width="1788" height="385" alt="image" src="https://github.com/user-attachments/assets/12ca4b08-6e64-4a1e-ba4d-97047b7a3113" />
 
